@@ -1,8 +1,1 @@
 common file to create merge conflicts
-
-Hii this is by harsh chauhan.
-Here is alphabets -> a , b , c , d , e , f ....
-Here are numbers -> 1 , 2 , 3 , 4 , 5 , 6 ....
-Hi this addition is done by Himalaya Gupta
-Changes made by jinks_07
-hey guys Changes done by shubham
